@@ -1,0 +1,8 @@
+057dcaab78f4e57039edf610f2ef2158 *DESCRIPTION
+df390c53434517b304ac5db487184641 *NAMESPACE
+0eafa32d2d5355b85dcc2e6ef1f9a54e *R/knock_out_fixture.R
+a386cabe98a5d7b233a6ab052c3d4d7d *R/knock_out_two.R
+202373048fced5c5ec294edc1933bb1e *R/round_robin_fixture.R
+544582ace22e3c6e37c356655d4ac974 *man/knock_out_fixture.Rd
+07e6211df8a933fbe4a510d25c3a9300 *man/knock_out_two.Rd
+be221049cdfb041d10845c5c4539dcae *man/round_robin_fixture.Rd
